@@ -9,10 +9,8 @@
 
 ![s1](https://github.com/vishal-mourya/Flash-Chat-Flutter-Firebase/blob/main/images/sc1.jpeg?raw=true) <br> <br>
 
-![s2](https://github.com/vishal-mourya/alumni-student-connect/blob/main/pics/s2.png?raw=true) <br> <br>
-![s3](https://github.com/vishal-mourya/alumni-student-connect/blob/main/pics/s3.png?raw=true) <br> <br>
-![s4](https://github.com/vishal-mourya/alumni-student-connect/blob/main/pics/s4.png?raw=true) <br> <br>
-![s5](https://github.com/vishal-mourya/alumni-student-connect/blob/main/pics/s5.png?raw=true) <br> <br>!
+![s2](https://github.com/vishal-mourya/Flash-Chat-Flutter-Firebase/blob/main/images/sc2.jpeg?raw=true) <br> <br>
+![s3](https://github.com/vishal-mourya/Flash-Chat-Flutter-Firebase/blob/main/images/sc3.jpeg?raw=true) <br> <br>
 <br>
 
 - Still Working on Improvements
